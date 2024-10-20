@@ -1,6 +1,6 @@
 <pre>  <h1>                👋 Hi,I’m Talhahussain      </h1></pre>
                                  
-- <h2>🌱 I’m currently learning Python</h2>
+- <h2>🌱 I’m currently learning Flutter</h2>
 - 📫 How to reach me:
     You can reach me through the Email th47555@gmail.com
 <!---
